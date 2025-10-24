@@ -1,7 +1,7 @@
 import statistics
 
 
-def average_raiting(data):
+def average_rating(data):
     """Подсчет среднего рейтинга брэндов"""
     brands = {}
     for i in data:
